@@ -172,7 +172,7 @@ body{
   cursor: pointer;
   transition: 0.4s;
 }
-#form input.play:hover{
+#form input.button:hover{
   background: #006653;
 }
 #signup{
@@ -183,6 +183,6 @@ body{
   color: #009579;
   cursor: pointer;
 }
-#signup .play:hover{
+#signup label:hover{
   text-decoration: underline;
 }
