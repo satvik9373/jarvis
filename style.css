@@ -183,6 +183,6 @@ body{
   color: #009579;
   cursor: pointer;
 }
-#signup label:hover{
+#signup .play:hover{
   text-decoration: underline;
 }
